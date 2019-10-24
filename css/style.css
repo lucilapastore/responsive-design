@@ -473,8 +473,7 @@ a.caret:hover::after {
 }
 
 .latest-funding .story-wrapper {
-  display: flex;
-  justify-content: space-between;
+  padding: 8px;
 }
 
 .latest-funding .story {
