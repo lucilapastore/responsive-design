@@ -10,3 +10,12 @@ You can find the original project specification at: https://www.theodinproject.c
 
 # Take-Away Skills:
 By the end of this project, you knew how to use relative units and media queries to create websites that can be viewed across devices of all sizes.
+
+# Live Version:
+The demo page can be found [here](#).
+
+# Contact
+Samuel Babatunde - babssam69@gmail.com
+Lucila Pastore - lucilapastore@gmail.com
+
+Project Link: https://github.com/lucilapastore/responsive-design
