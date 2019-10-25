@@ -1005,7 +1005,6 @@ a.caret:hover::after {
   }
 
   .nav-logo img {
-    height: 16px;
     width: 66px;
     padding: 16px 0;
   }
