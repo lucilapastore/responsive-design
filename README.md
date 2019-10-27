@@ -12,7 +12,7 @@ You can find the original project specification [here](https://www.theodinprojec
 By the end of this project, you knew how to use relative units and media queries to create websites that can be viewed across devices of all sizes.
 
 # Live Version:
-The demo page can be found [here](#).
+The demo page can be found [here](https://lucilapastore.github.io/responsive-design/).
 
 # Contact
 Samuel Babatunde - babssam69@gmail.com
